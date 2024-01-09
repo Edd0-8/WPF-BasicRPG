@@ -20,5 +20,6 @@ namespace Engine.Models.ViewModels
             CurrentPlayer.ExperiencePoints = 0;
             CurrentPlayer.Level = 1;
         }
+
     }
 }
